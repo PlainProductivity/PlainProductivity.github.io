@@ -9,7 +9,16 @@ header {
     font-size: 18px;
     text-align: center;
     background-image: linear-gradient(rgb(0, 0, 92), rgb(20, 20, 124));
-    padding: 10px
+    padding: 10px;
+}
+
+footer {
+    font-size: 16px;
+    text-align: center;
+    background-image: linear-gradient(rgb(0, 0, 92), rgb(20, 20, 124));
+    background-image: linear-gradient(rgb(0, 0, 92), rgb(20, 20, 124));
+    padding-bottom: 2px;
+    padding-top: 0px
 }
 
 .bio {
