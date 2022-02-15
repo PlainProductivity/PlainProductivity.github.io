@@ -4,7 +4,6 @@ body {
     font-size: 18px;
     background-color: rgb(153, 86, 153);
     margin: 0px;
-    padding: 10px;
 }
 
 header {
@@ -23,10 +22,7 @@ footer {
     padding-top: 0px
 }
 
-.bio {
-
-}
-.topics {
+.middle {
     font-size: 18px;
     padding: 10px;
     color: red;
