@@ -30,8 +30,8 @@ footer {
 
 /* Article CSS*/
 article {
-    background: #9f9f9f;
-    border: 3px solid #a0a0a0;
+    background: rgb(153, 86, 153);
+    border: 3px solid rgb(78, 43, 78);
     width: 90%;
     margin: 20px auto;
     border-radius: 10px;
